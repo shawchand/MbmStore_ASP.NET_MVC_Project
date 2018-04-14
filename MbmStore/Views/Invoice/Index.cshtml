@@ -1,0 +1,54 @@
+﻿@using MbmStore.Models;
+@{
+	ViewBag.Title = "Index";
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Index</title>
+	<style>
+		.col {
+			float: left;
+			width: 33.33%;
+		}
+
+
+		.row {
+			border: 1px solid green;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="row">
+		<div class="col">
+			<h2>Details</h2>
+			@foreach (Invoice inv in ViewBag.Invc)
+			{
+				@inv.Customer.Firstname    @inv.Customer.Lastname
+				<br />
+				foreach (OrderItem item in inv.OrderItems)
+				{
+					@item.Product.Title
+					<br/>
+					@item.Product.Price
+					<br/>
+				}
+
+				<strong>Total : </strong>	<span>@inv.GetTotalPrice()</span>
+				<br/><br /><br /><br />
+			}
+
+		</div>
+
+			
+	</div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,179 @@
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\csc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\vbc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\mbmshop.dll.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\mbmshop.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\mbmshop.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Helpers.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Mvc.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Webpages.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Helpers.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\bin\System.Web.Mvc.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\obj\Debug\mbmshop.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\mbmshop\obj\Debug\mbmshop.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\csc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\vbc.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll.config
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.pdb
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\jear\Google Drive\Documents-jear\eaaa-it\2016e\backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.pdb
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\csc.exe
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\vbc.exe
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll.config
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.pdb
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.xml
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csproj.CoreCompileInputs.cache
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.dll
+C:\Users\jear\Dropbox\Eaaa-it\2017e\Backend\projects\exercises\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.pdb
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\csc.exe
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\vbc.exe
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll.config
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\MbmStore.pdb
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Razor.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Deployment.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Webpages.Razor.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Helpers.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\bin\System.Web.Mvc.xml
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csproj.CoreCompileInputs.cache
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.dll
+D:\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.pdb
+D:\college\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+D:\college\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.csproj.CoreCompileInputs.cache
+D:\college\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.dll
+D:\college\24.08.2017_Web_Development\Backend\Lesson02\Lesson02_MbmStore_startup\MbmStore\obj\Debug\MbmStore.pdb
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.csprojResolveAssemblyReference.cache
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.csproj.CoreCompileInputs.cache
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.pdb
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\csc.exe
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\System.Collections.Immutable.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\vbc.exe
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\VBCSCompiler.exe
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\roslyn\VBCSCompiler.exe.config
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\MbmStore.dll.config
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\MbmStore.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\MbmStore.pdb
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\Microsoft.Web.Infrastructure.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Helpers.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Mvc.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Razor.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Webpages.Deployment.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Webpages.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Webpages.Razor.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Razor.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Webpages.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Webpages.Deployment.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Webpages.Razor.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Helpers.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\System.Web.Mvc.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\EntityFramework.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\EntityFramework.SqlServer.dll
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\EntityFramework.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\bin\EntityFramework.SqlServer.xml
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.Migrations.InitialCreate.resources
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.csproj.GenerateResource.Cache
+D:\college\24.08.2017_Web_Development\Backend\MbmStore_Mandatory\MbmStore\obj\Debug\MbmStore.Migrations.ProductCreatedDateAttribute.resources

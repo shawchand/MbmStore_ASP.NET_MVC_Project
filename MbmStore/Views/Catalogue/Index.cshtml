@@ -1,0 +1,119 @@
+﻿@using MbmStore.HtmlHelpers; 
+@using MbmStore.Models; 
+@model MbmStore.ViewModels.ProductsListViewModel
+@{
+	ViewBag.Title = "Index";
+}
+
+
+@using (Html.BeginForm("Index", "Cart"))
+{ @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+	<input type="submit" class="btn btn-success" value="View Cart" />
+}
+
+@if (Model.Products.OfType<Book>().Count() > 0)
+{
+	<h2>The Books</h2>
+	foreach (Book book in Model.Products.OfType<Book>().ToList())
+	{ 
+		@Html.Partial("ProductSummaryBook", book);
+		<br />
+	}
+}
+
+@if (Model.Products.OfType<Movie>().Count() > 0)
+{
+	<h2>The Movies</h2>
+	foreach (Movie movie in Model.Products.OfType<Movie>().ToList())
+	{ 
+		@Html.Partial("ProductSummaryMovie", movie);
+		<br />
+	}
+}
+
+
+@if (Model.Products.OfType<MusicCD>().Count() > 0)
+{
+	<h2>The Music CD</h2>
+	foreach (MusicCD music in Model.Products.OfType<MusicCD>().ToList())
+	{
+		@Html.Partial("ProductSummaryMusicCD", music); <br />
+	}
+}
+
+
+<div> 
+	@Html.PageLinks(Model.PagingInfo, x => Url.Action("Index", new { page = x, category = Model.CurrentCategory })) 
+</div>
+
+			@helper RenderBook(Book B1)
+			{
+					<p>Title : @B1.Title</p>
+					<p>Author : @B1.Author</p>
+					<p>Price: @String.Format("{0:0.00}", B1.Price)</p>
+					<p>Publisher : @B1.Publisher</p>
+					<p>Published On : @B1.Published</p>
+					<p>ISBN : @B1.ISBN</p>
+					<p><img src="/content/images/@B1.ImageUrl" alt="@B1.Title" /></p>
+			<br/><br/>
+			using (Html.BeginForm("AddToCart", "Cart"))
+			{
+				@Html.Hidden("ProductId", B1.ProductId)
+				@Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+				<input type="submit" class="btn btn-success" value="Add to cart" />
+			}
+		}
+			
+
+
+		@helper RenderMovie(Movie M1)
+		{
+			<p>Title : @M1.Title</p>
+			<p>Price: @String.Format("{0:0.00}", M1.Price)</p>
+			<p>Director : @M1.Director</p>
+			<p><img src="/content/images/@M1.ImageUrl" alt="@M1.Title" /></p>
+			
+			using (Html.BeginForm("AddToCart", "Cart"))
+			{
+				@Html.Hidden("ProductId", M1.ProductId)
+				@Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+				<input type="submit" class="btn btn-success" value="Add to cart" />
+			}
+		}
+		
+	
+			@helper RenderMusicCD (MusicCD CD)
+			{
+			<p>Album : @CD.Title</p>
+			<p>Artist : @CD.Artist</p>
+			<p>Price: @String.Format("{0:0.00}", CD.Price)</p>
+			<p>Released On : @CD.Released</p>
+			<p><img src="/content/images/@CD.ImageUrl" alt="@CD.Title" /></p>
+
+			
+				<ol>
+					Track List : @foreach (Track track in @CD.Tracks)
+					{
+						<li>
+							@track.Title1 (@track.Composer)
+							@track.Length.Minutes:@track.Length.Seconds
+						</li>
+
+					}
+
+				</ol>
+
+				<p><strong>Total Playing Time: @CD.GetPlayingTime()</strong></p>
+			
+			using (Html.BeginForm("AddToCart", "Cart"))
+			{
+				@Html.Hidden("ProductId", CD.ProductId)
+				@Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+				<input type="submit" class="btn btn-success" value="Add to cart" />
+			}
+}
+	
+
+	
+
+
